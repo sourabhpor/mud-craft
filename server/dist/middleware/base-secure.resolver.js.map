@@ -1,0 +1,1 @@
+{"version":3,"file":"base-secure.resolver.js","sourceRoot":"","sources":["../../src/middleware/base-secure.resolver.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAA2C;AAC3C,4EAAwE;AACxE,6DAA0D;AAC1D,2DAAuD;AAGhD,IAAe,kBAAkB,GAAjC,MAAe,kBAAkB;CAAG,CAAA;AAArB,gDAAkB;6BAAlB,kBAAkB;IADvC,IAAA,kBAAS,EAAC,6BAAY,EAAE,wBAAU,EAAE,oCAAgB,CAAC;GAChC,kBAAkB,CAAG"}

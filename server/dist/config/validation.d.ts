@@ -1,0 +1,11 @@
+export declare class EnvVariablesDto {
+    PORT?: number;
+    NODE_ENV?: string;
+    DB_HOST?: string;
+    DB_PORT?: number;
+    DB_USERNAME?: string;
+    DB_PASSWORD?: string;
+    DB_NAME?: string;
+    JWT_SECRET?: string;
+    JWT_EXPIRY?: string;
+}
