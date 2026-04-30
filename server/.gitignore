@@ -1,0 +1,92 @@
+# ------------------------------
+# Node.js Dependencies
+# ------------------------------
+/node_modules
+.pnp
+.pnp.js
+
+# ------------------------------
+# Build Output (NestJS)
+# ------------------------------
+/dist
+/build
+
+# ------------------------------
+# Logs
+# ------------------------------
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ------------------------------
+# Environment Variables
+# ------------------------------
+.env
+.env.*
+!.env.example
+
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
+.vscode/
+.idea/
+
+# ------------------------------
+# Testing
+# ------------------------------
+/coverage
+
+# ------------------------------
+# Uploads / Static Files
+# ------------------------------
+/public/uploads
+
+# ------------------------------
+# TypeORM / Database
+# ------------------------------
+# Ignore local database files (if using sqlite for dev)
+*.sqlite
+*.sqlite3
+
+# Ignore migration build output if generated
+dist/migrations
+
+# ------------------------------
+# Nest CLI
+# ------------------------------
+.nest-cli.json
+
+# ------------------------------
+# Package Managers
+# ------------------------------
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ------------------------------
+# Misc
+# ------------------------------
+*.zip
+*.tar
+*.gz
+
+# ------------------------------
+# Temporary Files
+# ------------------------------
+tmp/
+temp/
+
+# ------------------------------
+# Optional (Uncomment if needed)
+# ------------------------------
+# prisma/
+# *.pem
+# *.key
